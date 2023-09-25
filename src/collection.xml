@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movieCollection collectionCreationDate="2023-02-19T22:45:43.212237+03:00[Europe/Moscow]">
+    <movie>
+        <id>1</id>
+        <movieName>HElicopter</movieName>
+        <coordinates>
+            <x>12</x>
+            <y>12</y>
+        </coordinates>
+        <movieCreationDate>2023-09-11T12:02:05.123431200+03:00[Europe/Moscow]</movieCreationDate>
+        <oscarsCount>5</oscarsCount>
+        <genre>DRAMA</genre>
+        <mpaaRating>G</mpaaRating>
+        <actor>
+            <actorName>Armen Arabyan</actorName>
+            <birthday>2000-07-10T00:00</birthday>
+            <weight>100</weight>
+            <salary>17891</salary>
+        </actor>
+    </movie>
+</movieCollection>

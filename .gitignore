@@ -1,0 +1,5 @@
+.idea/
+docs/
+*.iml
+# Project exclude paths
+/out/
